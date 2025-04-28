@@ -1,0 +1,1 @@
+df.rename(columns={'v1': 'target', 'v2': 'message'}, inplace=True)
